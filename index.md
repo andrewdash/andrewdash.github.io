@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+```html
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -17,7 +17,7 @@ layout: default
     </article>
   {% endfor %}
 </div>
-
+```
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
