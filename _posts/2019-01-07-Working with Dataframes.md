@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Working with Dataframes
 date: 2019-01-07
 ---
