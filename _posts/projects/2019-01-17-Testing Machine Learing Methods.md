@@ -1,9 +1,21 @@
 ---
 layout: post
-title: Testing Machine Learning Methods
+title: Yelp Connections
 date: 2019-01-17
 categories: projects
 ---
-![yelp](../images/yelp_og_image.png){:height="240px" width="540px"}
+
+![](/assets/images/yelp_og_image.png){:height="240px" width="540px"}
+
+[Link to full deck](/assets/files/yelp.pdf)
+
 
 nice
+
+yelp is a blnankd
+
+and this is a Testing
+
+further tester
+
+big test **test**
