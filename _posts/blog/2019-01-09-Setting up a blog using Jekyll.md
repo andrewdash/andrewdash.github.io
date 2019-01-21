@@ -42,3 +42,8 @@ Useful links:
 [jekyll video walkthrough](https://jekyllrb.com/tutorials/video-walkthroughs/)
 
 [how categories work in jekyll](https://blog.webjeda.com/jekyll-categories/)
+
+
+1. git clone the plain website repository
+2. run `bundle exec jekyll serve` to see if website will run locally; if not, gotta figure out how `bundle exec jekyll serve` will run
+3. 
