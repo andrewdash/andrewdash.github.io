@@ -7,7 +7,7 @@ categories: projects
 
 ![](/assets/images/yelp_og_image.png){:height="240px" width="540px"}
 
-[Link to full deck](/assets/files/yelp.pdf)
+[Link to full deck](/assets/files/yelp v1.2 presented.pdf)
 
 
 nice
