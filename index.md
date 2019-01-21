@@ -11,6 +11,8 @@ My name is Andrew Le, and I am a recent UC Davis graduate (December 2018).
 
 As a student, I worked in venture capital at Impact Venture Capital, where I created the investment platform that they use today for due diligence. I'm proud that my involvement and research led to an active investment and the largest-ever startup event in Sacramento history (1000+ people). Previously also interened in Product Strategy at Zendesk.
 
+<br>
+<br>
 **Some projects I've worked on:**
 <br>
 
@@ -20,6 +22,10 @@ As a student, I worked in venture capital at Impact Venture Capital, where I cre
 
 [Yelp Connections Analysis]({{ site.baseurl }}{%post_url 2019-01-17-Yelp Connections %})
 
+<br>
+<br>
+<br>
+<br>
 Please email me at anwkle22@gmail.com for any inquiries!
 
 <!--
