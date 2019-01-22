@@ -23,3 +23,24 @@ You're limited on the kind of stuff you can do with the spreadsheet in Excel, so
 
 #### 2019-01-10
 I finally learned what multi-indexing is, and how to search through it. This [tutorial on multi-indexing by Data Camp](https://www.datacamp.com/community/tutorials/pandas-multi-index) was really helpful. I'm thinking of checking out more tutorials from here to learn from.
+
+### How do you split numerical data in to different bins?
+Here's an example with the titanic data. There's a column with `ages`, and we want to label them as child, teenager, adult, and elder.
+
+```python
+bins = [0,12,17,60,np.inf]
+labels = ['child','teenager','adult','elder']
+# pd.cut maps the passenger's ages to a label
+age_groups = pd.cut(titanic.age, bin, labels=labels)
+titanic['age_groups'] = age_groups
+
+
+# find the counts for each groupings
+groups = titanic.groupb(['age_group','alone'])
+groups.size()
+
+# percentages for each group's counts
+groups.size() / len(titanic)
+
+```
+[tutorial on doing groupbys](https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/#Groupby)
