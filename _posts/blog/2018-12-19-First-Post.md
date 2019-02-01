@@ -2,7 +2,6 @@
 layout: post
 title: First Post
 date: 2018-12-19
-categories: blog
 ---
 
 Putting together this "website" will be an interesting experience. I've had zero HTML/CSS experience and had just started my python journey three months ago. I also have very rudimentary skills in writing, so I don't expect this website to be a source of great wisdom or knowledge. Rather, I think this will be a great way for me to jot down thoughts so that over time, hopefully, I'll be able to organize my ideas in a more concise and thoughtful way.
