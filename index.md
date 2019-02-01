@@ -24,7 +24,7 @@ I made the deal flow pipeline for Impact Venture Capital. Impact Venture Capital
 <br>
 
 [![](/assets/images/yelp_og_image_small.png){:height="120px" width="300px"}]({{ site.baseurl }}{% post_url /projects/2019-01-17-Yelp Connections %})
-: [Yelp Collections Analysis]({{ site.baseurl }}{% post_url /projects/2019-01-17-Yelp Connections %})
+: [Yelp Collections Analysis]({{ site.baseurl }}{% post_url /projects/2019-01-17-Yelp-Connections %})
 : Making recommendations for why Yelp Collections needs to be improved (_hint: competitors are taking market share fast_) and what changes should be done
 <br>
 <br>
