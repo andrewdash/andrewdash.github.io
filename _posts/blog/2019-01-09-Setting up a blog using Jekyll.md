@@ -33,10 +33,11 @@ I used GitHub Pages to host my website, which has some restrictions on the pre-m
 -
 
 **Phase 4: solving for those adjustments!**
-
+- make edits to your files as you please. Anything related to images or files I wanted to have on the site I uploaded into assets/files/whatever_folder
 
 Congratulations! You have a themed Jekyll site up and running. After writing a few short pieces and taking a stab at that Phase 4, it's cool to see that effort  become realized into a visual piece of work. Best of luck as you keep at it!
 
+<br/>
 Useful links:
 
 [jekyll video walkthrough](https://jekyllrb.com/tutorials/video-walkthroughs/)
@@ -46,4 +47,4 @@ Useful links:
 
 1. git clone the plain website repository
 2. run `bundle exec jekyll serve` to see if website will run locally; if not, gotta figure out how `bundle exec jekyll serve` will run
-3. 
+3.

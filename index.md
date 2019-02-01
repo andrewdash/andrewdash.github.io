@@ -37,7 +37,7 @@ I made the deal flow pipeline for Impact Venture Capital. Impact Venture Capital
 <!-- last -->
 [![](/assets/images/springerlogo.jpg){:height="120px" width="300px"}]({{ site.baseurl }}{% post_url projects/2018-12-21-Springer text classification %})
 : [Machine Learning Text Classification]({{ site.baseurl }}{% post_url /projects/2018-12-21-Springer text classification %})
-: I used python ML methods to analyze text data
+: I used python ML methods (Random Forest, XGBoost, Logistic Regression) to analyze text data
 <br>
 <br>
 
