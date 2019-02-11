@@ -26,15 +26,5 @@ ML is a process that can be roughly summarized into these steps:
 - to quickly see multicollinearity, use a scatterplot on all the variables. If certain variables trend with each other very closely, it's time to remove the repeats
 - apparently RandomForestClassifier can give us the importance of each feature. Remove the least important features
 
-{% highlight python %}
-my_importance_model = RandomForestClassifier(n_estimators=10000, random_state=0, n_jobs=-1)
-my_importance_model.fit(independent_variables, dependent_variables)
-print(my_importance_model.feature_importances_)
-{% endhighlight %}
-
-- tester
 **5. Create new features from the existing ones**
 - let's say you have month and day data. You can set seasonality as a column
-
-----
-****

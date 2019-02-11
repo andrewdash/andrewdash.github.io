@@ -30,7 +30,7 @@ I used GitHub Pages to host my website, which has some restrictions on the pre-m
 
 **Phase 3: figuring out what sort of new adjustments you want to the themes**
 - I put in `<a href="{{ site.baseurl }}/about">About</a>` within my `default.html's` <body> / div / div / header / nav. Doing this let all pages in my website populate the word Home in a specific spot. It also take me, when I clicked on that word About, to the About webpage. The About webpage is defined within the base folder (with the config.yml file and stuff) as an html file called about.md. The code posted here routes to that about.md.
--
+
 
 **Phase 4: solving for those adjustments!**
 - make edits to your files as you please. Anything related to images or files I wanted to have on the site I uploaded into assets/files/whatever_folder
@@ -45,6 +45,9 @@ Useful links:
 [how categories work in jekyll](https://blog.webjeda.com/jekyll-categories/)
 
 
-1. git clone the plain website repository
+1. `git clone` the plain website repository
 2. run `bundle exec jekyll serve` to see if website will run locally; if not, gotta figure out how `bundle exec jekyll serve` will run
-3.
+3. determine what categories you want your site to have. I have `projects` and `blog` right now. For my postings, I have `categories: projects` or `categories: blog` within the front matter.
+4. create an HTML file that will display each category. I have a projects.html file and a blog.html file
+5. Set other front matter options. [You can get some information here.](https://jekyllrb.com/docs/step-by-step/03-front-matter/)
+6. Start writing the posts, and test the website!

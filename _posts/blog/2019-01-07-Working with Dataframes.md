@@ -22,7 +22,7 @@ You're limited on the kind of stuff you can do with the spreadsheet in Excel, so
 `df.append(new_information)`
 
 #### 2019-01-10
-I finally learned what multi-indexing is, and how to search through it. This [tutorial on multi-indexing by Data Camp](https://www.datacamp.com/community/tutorials/pandas-multi-index) was really helpful. I'm thinking of checking out more tutorials from here to learn from.
+Multi-indexing and how to search through it. This [tutorial on multi-indexing by Data Camp](https://www.datacamp.com/community/tutorials/pandas-multi-index) was really helpful. I'm thinking of checking out more tutorials from here to learn from.
 
 ### How do you split numerical data in to different bins?
 Here's an example with the titanic data. There's a column with `ages`, and we want to label them as child, teenager, adult, and elder.
