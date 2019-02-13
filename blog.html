@@ -13,10 +13,10 @@ description: notes from my own learnings
 
       <div class="entry">
         {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-
+      <p>
+      <p>___________________________________________________________</p>
     </article>
   {% endfor %}
 </div>
