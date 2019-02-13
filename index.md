@@ -11,10 +11,39 @@ My name is Andrew Le, and I'm a UC Davis grad.
 
 As a student, I worked in venture capital at Impact Venture Capital, where I created the deal flow platform that they use today for due diligence. I'm proud that my involvement and research led to an active investment and the largest-ever startup event in Sacramento history (1000+ people). Previously also interned in Product Strategy at Zendesk.
 
+
+
+<br>
+**___________________________________________________________**
+<div style="float: left; width:40%;">
+<p> </p>
+<p> </p>
+<br>
+<br>
+I like creating stories through python, SQL, Excel, and non-trivial data analysis.
+</div>
+<div style="float: right;width:40%;"> <strong><u>Skills</u></strong>
+<li>Excel</li>
+<li>Python (scikit-learn)</li>
+<li>SQL</li>
+<li>R</li>
+<li>Bime (Zendesk's internal Tableau-like software)</li>
+</div>
+
+<!--
+<div style="float: right;">Skills
+<li style="margin-left: 1em">Excel</li>
+<li style="margin-left: 1em">python</li>
+<li style="margin-left: 1em">SQL</li>
+<li style="margin-left: 1em">R</li>
+</div>
+-->
+**___________________________________________________________**
+
+
 <br>
 <br>
 **Some projects I've worked on:**
-<br>
 
 <!-- takes an image, dimension, and destination and puts it all together -->
 [![](/assets/images/impact_venture_logo.jpg){:height="120px" width="300px"}]({{ site.baseurl }}{% post_url /projects/2018-12-01-Impact_Venture_Capital %})
@@ -31,7 +60,7 @@ I made the deal flow pipeline for Impact Venture Capital. Impact Venture Capital
 <!-- 3 -->
 [![](/assets/images/Airbnb.png){:height="120px" width="300px"}]({{ site.baseurl }}{% post_url projects/2019-01-10-Airbnb Cohort Analysis %})
 : [Increasing Airbnb Host Engagement]({{ site.baseurl }}{% post_url /projects/2019-01-10-Airbnb Cohort Analysis %})
-: My reasonings for why certain Aibrnb hosts do better than others
+: My reasonings for why certain Airbnb hosts do better than others
 <br>
 <br>
 <!-- last -->

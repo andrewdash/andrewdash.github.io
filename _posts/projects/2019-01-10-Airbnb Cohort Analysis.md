@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Airbnb Cohort Analysis
+title: Airbnb Collections Analysis
 date: 2019-01-10
 categories: projects
 ---

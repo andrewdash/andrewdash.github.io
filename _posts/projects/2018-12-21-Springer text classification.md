@@ -17,7 +17,7 @@ I wanted to explore different methods of machine learning, such as Random Forest
 
 
 **Why did I choose this data set in particular?**
-  1. Getting an amazing accuracy rate would be *very* challenging, meaning I could explore further into different ML methods (AI/deep learning) so see what works best.
+  1. Getting an amazing accuracy rate would be *very* challenging, meaning I could explore further into different ML methods (AI/deep learning) to see what works best.
   2. The data set had to be gathered, letting me learn how to pull from APIs so that I could have this skill moving forward (if I ever need it)
 
 The idea is that, let's say we're given a bunch of observations (each row on an Excel sheet) that have some amount of sentences and text attached to it (column B of the Excel sheet), whom are split into 7 different groups (column C of the Excel sheet that has values ranging from 1-7). Now if we're handed some sentences and we're asked, "Which group 1-7 do these sentences represent?", how would we go about solving this? This is where machine learning comes in.
