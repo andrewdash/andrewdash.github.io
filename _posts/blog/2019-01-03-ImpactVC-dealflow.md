@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Impact Venture Capital
-date: 2019-01-09
-categories: projects
+title: Thought process on VC deal flow
+date: 2019-01-03
+categories: blog
 ---
-![](/assets/images/impact_venture_logo.jpg){:height="240px" width="540px"}
 
-__*Summary*__
-: Creating the deal flow pipeline made looking at startups 2x as fast because we had a standard system in place and now had clear markers for why we would/wouldn't pursue interest into a startup. Automating parts of the process let us measure the status of companies at different stages of our research and made it easy for me to create and assign priorities across the venture fellow team.
+<br>
+
+_Update: [I've formulized the thoughts in here into my Projects section](/_posts/projects/2019-01-09-Impact_Venture_Capital.md). Check it out!_
 
 **-----** <br>
-Impact Venture Capital is a $100M venture fund started by Dixon Doll (founder of DCM Ventures, $3B+ AUM), and Eric Ball and Jack Crawford of Oracle. As a Venture Fellow there, I got to get a close look into different parts of the business while also having the flexibility to get into interesting projects.
 
-Like any other intro level venture role, I was mostly focused on the earliest parts of company outreach/due diligence. I spent a fair portion of my time doing operational work, which was initially consuming but became more optimized as I kept thinking of new ways to compartmentalize the time it took to complete those assignments. The more mental power I could strip off from frequent (but incredibly necessary) operations, the more I could accomplish while having the time/energy to think about what interesting things I could contribute to Impact.
+Impact Venture Capital is a $100M venture fund started by Dixon Doll (founder of DCM Ventures, $3B+ AUM), and Eric Ball and Jack Crawford of Oracle. As a Venture Fellow there, I got to get a close look into different parts of the business while also having the flexibility to get into interesting projects. Was really fortunate to have gotten face time with entrepreneurs, corporate CEOs, and people at the helm of billions of dollars in assets-- what other industry could a 20-something-year-old possibly get this kind of exposure?
+
+Similar to other analyst venture roles, I was mostly focused on screening startups and the earliest parts of company outreach/due diligence. I spent a fair portion of my time doing operational work, which was initially consuming but became more optimized as I kept thinking of new ways to compartmentalize the time it took to complete those assignments. The more mental power I could strip off from frequent (but incredibly necessary) operations, the more I could accomplish while having the time/energy to think about what interesting things I could contribute to Impact.
 
 With this mindset and a big focus of my time on top-of-the-funnel deal flow, I wanted to think about ways to streamline the information I was passing onto my bosses. I was fortunate enough to be able to present my information directly to the Principal and General Partner (because of the lean team there), so that was extra incentive to make sure I could put in place standardized processes. Although I cannot publicly share the exact deal flow pipeline, after a lot of independent research, readings, conversations with decision holders at Impact, and conversations with acquaintances I had made within venture, here is a general approach of what I implemented internally at ImpactVC, as well as the questions I asked myself that guided each step.
 
@@ -34,5 +35,3 @@ We asked ourselves: what would be the most time efficient method to learn the mo
 : Centralizing the information in one spot with consistent formatting lets us view our thought process and performance over time so that we could evaluate it and find ways to further optimize. I then created ways to automate information retrieval to help save more time and eliminate any chance of human error.  
 
 <br> <br>
-
-As a plus, I had a great experience getting front-time with interesting high-net-worth families and people at the helm of billions of dollars in assets (where else would you get to do that?).
