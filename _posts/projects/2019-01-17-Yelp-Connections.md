@@ -25,9 +25,9 @@ One Yelp offering, Yelp Connections, is particularly interesting. It lets you vi
 
 I first did a Google search of Yelp Collections to get some background information. Yelp Collections was introduced in May 2018 as the company's move towards introducing ML/AI into its product. Product Manager Jay Garg wrote [in a blog](https://www.digitaltrends.com/social-media/yelp-collections-announced/) post that Yelp Connections recommends, "based on your activity on Yelp and [by] amplifying top recommendations from across the Yelp Community."
 
-The 'based on your activity on Yelp' is a crucial point. ML algorithms roughly work like this: the more data that is available, the more confident the recommendation could be. Facebook/Instagram/Snap users browse their feeds for hours at a time, generating tons of data that their AI-recommending systems can make confident predictions on. But What's the chance an AVERAGE person browses the Yelp app long enough (and often enough) to make a solid recommendation? In my perspective, the chances aren't great.
+The 'based on your activity on Yelp' is a crucial point. ML algorithms roughly work like this: the more data that is available, the more confident the recommendation could be. Facebook/Instagram/Snap users browse their feeds for hours at a time, generating tons of data that their AI-recommending systems can make confident predictions on. But what's the chance an AVERAGE person browses the Yelp app long enough (and often enough) to make a solid recommendation? In my perspective, the chances aren't great.
 
-**So the question begs:** How can Yelp Connections be better? What can be done to the Yelp Collections feature to make it more useful to users, which makes the app more interesting/sticky, which makes it more useful to advertisers?
+**So the question begs:** How can Yelp Connections be better? What can be done to the Yelp Collections feature to make it more useful to users, which makes the app more interesting/sticky, which makes it more useful to advertisers, thus being a better product for everyone?
 
 Check out recommendations in the deck below.
 

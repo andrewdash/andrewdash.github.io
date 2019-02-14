@@ -5,9 +5,9 @@ description: some info about me
 permalink: /about/
 ---
 
-My name is Andrew Le, and I am a recent UC Davis graduate (December 2018).
+Hello! I'm Andrew Le.
 
-As a student, I worked in venture capital at Impact Venture Capital, where I solely created the deal flow platform that they use today for due diligence. I'm proud that my involvement and research led to an active investment (Advanced.Farm) and the largest-ever startup event in Sacramento history (1000+ people). Previously also interned in Product Strategy at Zendesk.
+I worked in venture capital at Impact Venture Capital, where I created the organizational platform that they use today for screening startups, from sourcing (discovering the startup) to investment. I'm proud that my involvement and research led to an active investment (Advanced.Farm) and the largest-ever startup event in Sacramento history (1000+ people). Previously also interned in Product Strategy at Zendesk.
 
 __Check out some of the projects I've worked on.__
 

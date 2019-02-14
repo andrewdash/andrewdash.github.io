@@ -31,7 +31,7 @@ I thought about how companies had sales pipelines, where customer leads are ofte
 Venture firms wish they could know everything about a start up, but the reality is there isn't enough time nor resources to do so. For analyzing startups, at least before we start having deep conversations with the company, prioritizing what to analyze is about figuring out what's going to give us the most knowledge in the least amount of time.
 
 __*Result*__
-: Creating different stages in how we analyzed startups took the mental work from "Here's this startup-- what do we need to look at?" to "Here's this startup-- why is it uniquely competitive?" Conducting analysis was at minimum 2x faster, scalable (stages of analysis were clearly defined), easy to understand (information was centralized in one place), and communicable to senior management (I automated the process of creating reports). Ultimately, it made my job a little easier and more productive, which is what I'm always trying to shoot for.
+: Creating different stages in how we analyzed startups took the mental work from "Here's this startup-- what do we need to look at?" to "Here's this startup-- why is it uniquely competitive?" Conducting analysis was at minimum 2x faster, scalable (stages of analysis were clearly defined), easy to understand (information was centralized in one place), and communicable to senior management (I automated the process of creating reports). Ultimately, it made my job a little easier and more productive, which helps let me focus on the most important things.
 
 <br>
 If you'd like, you can check [further notes on how I approached this process]({{ site.baseurl }}{% post_url blog/2019-01-03-ImpactVC-dealflow %}).

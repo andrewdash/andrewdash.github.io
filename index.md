@@ -9,7 +9,7 @@ My name is Andrew Le, and I'm a UC Davis grad.
 
 
 
-As a student, I worked in venture capital at Impact Venture Capital, where I created the deal flow platform that they use today for due diligence. I'm proud that my involvement and research led to an active investment and the largest-ever startup event in Sacramento history (1000+ people). Previously also interned in Product Strategy at Zendesk.
+Most recently, I worked in venture capital at Impact Venture Capital, where I created an end-to-end methodology for documenting how Impact Venture Capital analyzes startups. I'm proud that my involvement and research led to an active investment (Advanced.Farm) and the largest-ever startup event in Sacramento history (1000+ people). Previously also interned in Product Strategy at Zendesk.
 
 
 
@@ -27,7 +27,7 @@ I like creating stories through python, SQL, Excel, and non-trivial data analysi
 <li>Python (scikit-learn)</li>
 <li>SQL (JOINS, VIEWS)</li>
 <li>R</li>
-<li>Bime (Zendesk's internal Tableau-like software)</li>
+<li>Tableau (via Zendesk's Bime)</li>
 </div>
 
 <!--
@@ -60,7 +60,7 @@ I like creating stories through python, SQL, Excel, and non-trivial data analysi
 <!-- ImpactVC -->
 [![](/assets/images/impact_venture_logo.jpg){:height="120px" width="300px"}]({{ site.baseurl }}{% post_url /projects/2019-01-09-Impact_Venture_Capital %})
 : [ImpactVC Deal Flow Creation]({{ site.baseurl }}{% post_url /projects/2019-01-09-Impact_Venture_Capital %})
-I created an end-to-end methodology for documenting how Impact Venture Capital analyzes startups. Impact Venture Capital was founded by Dixon Doll of DCM Ventures ($3B+ AUM), and Eric Ball and Jack Crawford of Oracle (treasury & BizDev)
+: I created an end-to-end methodology for documenting how Impact Venture Capital analyzes startups. Impact Venture Capital was founded by Dixon Doll of DCM Ventures ($3B+ AUM), and Eric Ball and Jack Crawford of Oracle (treasury & BizDev)
 <br>
 <br>
 
@@ -71,7 +71,7 @@ I created an end-to-end methodology for documenting how Impact Venture Capital a
 <br>
 <br>
 
-Please email me at anwkle22@gmail.com for any inquiries!
+Please email me at anwkle22@gmail.com for any inquiries.
 
 <!--
 <div class="posts">
