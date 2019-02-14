@@ -3,7 +3,7 @@ layout: default
 title: Andrew's info
 ---
 
-My name is Andrew Le, and I'm a UC Davis grad.
+Hello! I'm Andrew Le.
 
 ![](/assets/images/profile_image.jpg) <!--{:height="319px" width="527px"} -->
 
