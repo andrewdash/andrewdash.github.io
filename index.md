@@ -18,6 +18,7 @@ Most recently, I worked in venture capital at Impact Venture Capital, where I cr
 <div style="float: left; width:40%;">
 <p> </p>
 <p> </p>
+You can find my resume <a href="assets/files/Resume_Andrew_Le.pdf">here</a>.
 <br>
 <br>
 I like creating stories through python, SQL, Excel, and non-trivial data analysis.
