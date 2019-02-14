@@ -7,7 +7,7 @@ categories: blog
 
 <br>
 
-_Update: [I've formulized the thoughts in here into my Projects section](/_posts/projects/2019-01-09-Impact_Venture_Capital.md). Check it out!_
+_Update: [I've formulized the thoughts in here into my Projects section]({{ site.baseurl }}{% post_url /projects/2019-01-09-Impact_Venture_Capital %}). Check it out!_
 
 **-----** <br>
 
