@@ -9,7 +9,7 @@ categories: projects
 
 
 
-[In this deck, I outline my recommendations](/assets/files/yelp v1.3.pdf) for what Yelp could do to add value to Yelp Connections in order to increase its user stickiness. Below is a summary of how I came about this project and why I found it interesting.
+[In this deck, I outline my recommendations](/assets/files/yelp_presented.pdf) for what Yelp could do to add value to Yelp Connections in order to increase its user stickiness. Below is a summary of how I came about this project and why I found it interesting.
 
 <br>
 
@@ -31,6 +31,6 @@ The 'based on your activity on Yelp' is a crucial point. ML algorithms roughly w
 
 Check out recommendations in the deck below.
 
-[Link to full deck](/assets/files/yelp v1.3.pdf)
+[Link to full deck](/assets/files/yelp_presented.pdf)
 <br>
 <br>
