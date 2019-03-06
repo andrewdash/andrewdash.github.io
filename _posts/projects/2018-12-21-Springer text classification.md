@@ -35,7 +35,7 @@ I looked at scientific paper data, gathering a list of scientific paper abstract
 3. __transform the data so that calculations can happen on it__
 : Text data by itself doesn't mean anything to a computer for this analysis. I'll convert each one of the scientific abstracts to a grid of numbers (called vectorization), use a : method that modifies these abstract-turned-numbers to value the words that are most unique to each publication.
 4. __test different machine learning models__
-: Tested models LinearSCV(), RandomForestClassifier(), KNeighborsClassifier(), LogisticRegression(), and MultinomailNB(). Used cross-validation to get a best estimate for each model. It's important to not assume that there is a "one classifier to rule them all," as [explained by some UPenn researchers](https://psb.stanford.edu/psb-online/proceedings/psb18/olson.pdf).
+: Tested models LinearSVC(), RandomForestClassifier(), KNeighborsClassifier(), LogisticRegression(), and MultinomailNB(). Used cross-validation to get a best estimate for each model. It's important to not assume that there is a "one classifier to rule them all," as [explained by some UPenn researchers](https://psb.stanford.edu/psb-online/proceedings/psb18/olson.pdf).
 5. __tuned hyperparameters for the Logistic Regression (was best performing classifier here)__
 : Used `RandomSearchCV` to find a couple different hyperparameter. Accuracy only went up 1% from hyperparameter (from 79%-80%), which doesn't mean much. Could be interesting to look into the technicals for why tuning hyperparameters didn't improve the accuracy a lot. Or, it could also be a good opportunity to check out other methods for text classification, like ai/deep learning.
 

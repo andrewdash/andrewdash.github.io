@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airbnb Collections Analysis
-date: 2019-01-10
+date: 2019-01-17
 categories: projects
 ---
 
