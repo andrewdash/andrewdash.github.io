@@ -26,7 +26,7 @@ I like creating stories through python, SQL, Excel, and non-trivial data analysi
 <div style="float: right;width:40%;"> <strong><u>Skills</u></strong>
 <li>Excel</li>
 <li>Python (scikit-learn)</li>
-<li>SQL (JOINS, VIEWS)</li>
+<li>SQL (JOINS, VIEWS, window functions)</li>
 <li>R</li>
 <li>Tableau (via Zendesk's Bime)</li>
 </div>
