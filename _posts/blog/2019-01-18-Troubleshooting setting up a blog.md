@@ -17,6 +17,4 @@ There are a lot of small things that can go wrong when setting up the blog. Here
 Try `git rm -r --cached .` will clear the github cache. Then, you can `git push origin master` your files properly
 
 **2. How do you upload a photo that is clickable to some URL, but also changeable by size?**
-```python
-[![](/assets/images/yelp_og_image_small.png){:height="160px" width="400px"}]({{ site.baseurl }}{% post_url 2019-01-17-Yelp-Connections %})
-```
+see source code (on github for how I do it with the main page images)
