@@ -2,7 +2,7 @@
 layout: post
 title: Setting up a blog using Jekyll
 date: 2019-01-09
-categories: blog
+[//]: # categories: blog
 ---
 
 

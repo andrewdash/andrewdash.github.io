@@ -2,7 +2,7 @@
 layout: post
 title: Process for Improving Data Quality for ML
 date: 2019-01-08
-categories: blog
+[//]: # categories: blog
 ---
 
 ML is a process that can be roughly summarized into these steps:

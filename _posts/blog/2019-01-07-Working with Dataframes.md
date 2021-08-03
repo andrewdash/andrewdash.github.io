@@ -2,7 +2,7 @@
 layout: post
 title: Working with Dataframes
 date: 2019-01-07
-categories: blog
+[//]: # categories: blog
 ---
 <br/>
 Learning how to manipulate data frames is the most important baseline for data analysis. Data comes in the form of tables, which we can think of as an Excel sheet. `Rows` represent each data point (one customer) and `columns` represent stuff that describes each of these data points.
