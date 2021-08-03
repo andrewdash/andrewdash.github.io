@@ -9,7 +9,7 @@ Hello! I'm Andrew Le.
 
 
 
-Most recently, I worked in venture capital at Impact Venture Capital, where I created an end-to-end methodology for documenting how Impact Venture Capital analyzes startups. I'm proud that my involvement and research led to an active investment (Advanced.Farm) and the largest-ever startup event in Sacramento history (1000+ people). Previously also interned in Product Strategy at Zendesk.
+I'm currently working in business operations at Flexport, which means I ideate, write, and execute on business plans that speed up work for business teams (and myself). Previously I worked in venture capital at Impact Venture Capital, contributing with deal sourcing and research. Before that I interned in Product Strategy at Zendesk.
 
 
 
@@ -27,8 +27,8 @@ I like creating stories through python, SQL, Excel, and non-trivial data analysi
 <li>Excel</li>
 <li>Python (scikit-learn)</li>
 <li>SQL (JOINS, VIEWS, window functions)</li>
-<li>R</li>
-<li>Tableau (via Zendesk's Bime)</li>
+<li>Git</li>
+<li>Looker</li>
 </div>
 
 <!--

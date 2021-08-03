@@ -7,9 +7,9 @@ permalink: /about/
 
 Hello! I'm Andrew Le.
 
-I worked in venture capital at Impact Venture Capital, where I created the organizational platform that they use today for screening startups, from sourcing (discovering the startup) to investment. I'm proud that my involvement and research led to an active investment (Advanced.Farm) and the largest-ever startup event in Sacramento history (1000+ people). Previously also interned in Product Strategy at Zendesk.
+I'm currently working in business operations at Flexport, which means I ideate, write, and execute on business plans that speed up work for business teams (and myself). Previously I worked in venture capital at Impact Venture Capital, contributing with deal sourcing and research. Before that I interned in Product Strategy at Zendesk.
 
-__Check out some of the projects I've worked on.__
+__Some projects I've worked on.__
 
 
 - [venture capital deal flow pipeline]({{ site.baseurl }}{% post_url /projects/2019-01-09-Impact_Venture_Capital %})
@@ -18,4 +18,4 @@ __Check out some of the projects I've worked on.__
 - [text classification using ML]({{ site.baseurl }}{% post_url /projects/2018-12-21-Springer text classification %})
 
 
-Please email me at anwkle22@gmail.com for any inquiries.
+Always happy to chat :) Please email me at anwkle22@gmail.com for any inquiries.
