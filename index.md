@@ -40,8 +40,6 @@ I like creating stories through python, SQL, Excel, and non-trivial data analysi
 </div>
 -->
 **___________________________________________________________**
-
-
 <br>
 <br>
 **Some projects I've worked on:**
@@ -62,13 +60,6 @@ I like creating stories through python, SQL, Excel, and non-trivial data analysi
 [![](/assets/images/impact_venture_logo.jpg){:height="120px" width="300px"}]({{ site.baseurl }}{% post_url /projects/2019-01-09-Impact_Venture_Capital %})
 : [ImpactVC Deal Flow Creation]({{ site.baseurl }}{% post_url /projects/2019-01-09-Impact_Venture_Capital %})
 : I created an end-to-end methodology for documenting how Impact Venture Capital analyzes startups. Impact Venture Capital was founded by Dixon Doll of DCM Ventures ($3B+ AUM), and Eric Ball and Jack Crawford of Oracle (treasury & BizDev)
-<br>
-<br>
-
-<!-- last -->
-[![](/assets/images/springerlogo.jpg){:height="120px" width="300px"}]({{ site.baseurl }}{% post_url projects/2018-12-21-Springer text classification %})
-: [Machine Learning Text Classification]({{ site.baseurl }}{% post_url /projects/2018-12-21-Springer text classification %})
-: I used python ML methods (Random Forest, XGBoost, Logistic Regression) to analyze text data
 <br>
 <br>
 

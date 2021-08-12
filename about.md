@@ -15,7 +15,6 @@ __Some projects I've worked on.__
 - [venture capital deal flow pipeline]({{ site.baseurl }}{% post_url /projects/2019-01-09-Impact_Venture_Capital %})
 - [airbnb host engagement analysis]({{ site.baseurl }}{% post_url /projects/2019-01-10-Airbnb Cohort Analysis %})
 - [yelp connections analysis]({{ site.baseurl }}{% post_url /projects/2019-01-17-Yelp-Connections %})
-- [text classification using ML]({{ site.baseurl }}{% post_url /projects/2018-12-21-Springer text classification %})
 
 
 Always happy to chat :) Please email me at anwkle22@gmail.com for any inquiries.
