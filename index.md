@@ -11,9 +11,9 @@ Hello! I'm Andrew Le.
 
 I'm currently working in business operations at Flexport, which means I ideate, write, and execute on business plans that speed up work for business teams (and myself). Previously I worked in venture capital at Impact Venture Capital, contributing with deal sourcing and research. Before that I interned in Product Strategy at Zendesk.
 
-<div>
-    Working on building out a [full stack news app](https://andrewdash.github.io/newsapp/). Google News felt too targeted and I wanted news sources from a variety of places that I could curate for myself over time.
-</div>
+
+[Working on building out a full stack news app](https://andrewdash.github.io/newsapp). Google News felt too targeted and I wanted news sources from a variety of places that I could curate for myself over time.
+
 
 <br>
 **___________________________________________________________**
